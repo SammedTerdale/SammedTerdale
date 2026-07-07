@@ -68,3 +68,13 @@
 </p>
 
 
+<br>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/SammedTerdale/SammedTerdale/output/github-contribution-grid-snake.svg"
+    alt="Snake Animation"
+    width="900"
+  />
+</p>
