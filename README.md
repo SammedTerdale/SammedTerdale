@@ -30,8 +30,8 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/sammedterdale" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="60" />
+<a href="https://www.linkedin.com/in/sammed-terdale-656861307" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="60" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 
